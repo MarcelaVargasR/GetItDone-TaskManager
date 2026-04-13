@@ -15,7 +15,7 @@ This will load the first page of the application.
 
 The purpose of building this software was to strengthen my understanding of component-based design in React, state management across multiple views, routing between pages, and dynamic rendering of user-generated data.
 
-**Software demo video**[(Software Demo Video)]
+**Software demo video**[(https://youtu.be/OfDRaPKQXD)]
 
 ## Web Pages
 
